@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+tqdm
+Cython
+xtsv
+quntoken
+emmorphpy
+panphon>=0.20
+cmudict>=1.0.15
+wordfreq>=3.0.3
+coqui-tts>=0.22.0
+openai-whisper>=20231117
+notebook
+google-genai
+matplotlib
+pynini==2.1.5; platform_system == "Linux"

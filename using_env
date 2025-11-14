@@ -1,0 +1,25 @@
+source .venv/bin/activate
+
+sudo apt install -y python3-venv python3-dev build-essential git
+sudo apt install -y hfst
+
+git clone https://github.com/dlt-rilmta/emtsv.git
+cd emtsv
+pip install -r requirements.txt
+pip install .
+
+pip install "git+https://github.com/nytud/emmorphpy.git"
+
+
+
+
+git clone https://github.com/dlt-rilmta/emMorph.git
+cd emMorph
+pip install .
+
+git clone https://github.com/levaid/emPhon.git
+cd emMorph
+make build
+pip install dist/*.whl
+
+export EMPHON_PIPE_CMD="emtsv -l hu emMorph emPhon"

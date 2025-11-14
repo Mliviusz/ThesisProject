@@ -1,0 +1,29 @@
+hu_text,en_text_dp,dp_cost,en_text_gemini,hu_hyp_dp,dp_wer,dp_cer,dp_per
+Mit sütsz kis szűcs,meet shoe key so a a,6.146000000000001,,Micsuki Szoal,1.0,0.5789473684210527,1.0
+Sárga bögre görbe bögre,shopping bow a eh oh bed bow a eh,12.68,,"Shopping, boo.quajo bedbawei!",1.0,0.9565217391304348,1.5
+Fekete bikapata kopog a patika pepita kövezetén,effect eh be ca pot ah cope aw ah pa to cop eh p ta co as et in,6.037000000000001,,"Efekt ehhez, mikor padokópa, vagy padokáp, a ptáka leszett innen.",1.2857142857142858,0.8723404255319149,1.0731707317073171
+Két pék két szép kék képet kér,act pick act speak kick pet co a a,13.123,,"átpik át, szpik, kik, pet, ko, áll.",1.0,0.7333333333333333,0.782608695652174
+Jamaika a jamaikaiaké,ya ma ye ca ah ya ma ye ca ye ya co a,3.0210000000000004,,"JÁMÉIKÁL, A JÁMÉIKÉJÉAKÓL!",0.6666666666666666,0.6190476190476191,0.8260869565217391
+A szecsuáni síncsiszoló sínt csiszol Szecsuánban,os eh to knee she nice all she nice all said to mm been,12.676,,"Azért tök néz, sinájsz al, sinájsz al, Szedt Tom Bén.",1.6666666666666667,0.7708333333333334,1.1176470588235294
+Jobb egy lúdnyak két tyúknyaknál,yo edge old knock correct knock nail,10.681,,"jó, egy, old, nak, korrekt, nak, nél.",1.4,0.71875,0.8181818181818182
+Lali a lila ló elalél,law lee ah lee law let law lol,3.2910000000000004,,"Lali, lila, letlalal.",1.0,0.3809523809523809,0.2941176470588235
+Nem lehet a Márta másé mert a Márta már Tamásé,m let eh tom tom she mm eh tom tom tom she a,15.187999999999995,,"A lett a tamtám sím. Aha. Tam, tam, tam sí. Álljál!",1.0,0.7608695652173914,0.8378378378378378
+Gyűrűt újra fűz,budget you ah phase,9.011,,baj klasszusi minden haltalát.,1.3333333333333333,1.8666666666666667,2.6666666666666665
+Hány nyár,he known a a,6.92,,Hi-no-ne!,1.0,0.7777777777777778,1.6666666666666667
+Tyúk és csibe,check she ebay eh,4.970000000000001,,Cseksibé!,1.0,0.7692307692307693,0.8888888888888888
+Dzsinn ül a dzsámi előtt,e law me l a a,7.800000000000001,,Ilami lel!,1.0,0.7083333333333334,0.5714285714285714
+Sárban szárad,she ba nice odd,5.665,,Si ben nice odd!,2.0,0.8461538461538461,1.4545454545454546
+Zsákban a zsemle,is been oz m let,4.929,,"It is been awesome, let.",1.6666666666666667,1.0,1.3333333333333333
+Egy nagy kertben,edge na jack said ben,2.653,,"Egyne, Csakszéd, Ben.",1.0,0.8125,0.5833333333333334
+Őr űzi az ürgét,a z oz tonight,8.642,,"azaz, tanáty!",1.0,0.8666666666666667,1.0833333333333333
+Két bögre teát kér,act bow et eh take a a,8.418,,A ACT UW Hybridtrad fair vs Belfly first Gold,2.25,2.055555555555556,2.6
+A kórus a kocsma előtt áll,ah school shock aw ma l a a a a,10.735,,A szkólság valami eláll.,0.8333333333333334,0.6153846153846154,0.8888888888888888
+Szép zöld fű,spurs old for a,4.220000000000001,,Spurs Old Four,1.0,0.75,1.4444444444444444
+Sütőtökből sütit süt,shoot toe black shoot it shoot,5.343999999999999,,"Shoot to black, shoot it, shoot!",2.0,1.0,1.1111111111111112
+Hidd el itt írok,he l e a oak,4.691999999999999,,héliaí ók,1.0,0.6875,0.9090909090909092
+Vár a víz,of of is,4.609999999999999,,"Af, af, is, af, af, is.",2.0,2.2222222222222223,2.4285714285714284
+Füstöl a fűrész,fish toe law officer,6.503,,Fishtó Ló officer.,1.0,0.8,1.3333333333333333
+Gyúl a Gyertya,age lodge eh each ah,3.643,,Égy agy lágy ícsa.,1.3333333333333333,0.8571428571428571,1.2222222222222223
+Ég a lámpa,fall mm pa,3.5290000000000004,,"wooden rész unfortunately we showed you what we did Stay most Angere Kifšik te Hála, oly-hála, oly-hála, oly-hála, oly-hála...",6.333333333333333,11.8,10.875
+Csőből csöpög,believe oh po a,7.423,,Blivó pó!,1.0,0.7692307692307693,1.1
+Kő őrzi őzt,because east,5.72,,mert az összes...,1.0,1.3636363636363635,1.6666666666666667

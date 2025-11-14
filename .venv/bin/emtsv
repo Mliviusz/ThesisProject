@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+PY="$(command -v python3)"
+EMTSV_DIR="$HOME/diploma/hu_en_homophonic/tools/emtsv"
+export PYTHONPATH="$EMTSV_DIR:${PYTHONPATH}"
+exec "$PY" "$EMTSV_DIR/main.py" "$@"
